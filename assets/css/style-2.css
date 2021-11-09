@@ -163,7 +163,7 @@ html {
 #slider {
     margin-top: 46px;
     padding-top: 50%;
-    background: url(./assets/img/slider/slider1.jpg) no-repeat center / cover;
+    background: url(../img/slider/slider1.jpg) no-repeat center / cover;
     position: relative;
 }
 
@@ -344,7 +344,7 @@ html {
 }
 
 .section-map {
-    background: url(./assets/img/map/map.jpg) no-repeat center / cover;
+    background: url(../img/map/map.jpg) no-repeat center / cover;
     padding-top: 50%;
     filter: grayscale(50%);
 }
